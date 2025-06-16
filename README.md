@@ -4,7 +4,7 @@
 
 `https://reactrouter.com/tutorials/address-book`  
 
-のチュートリアルを最後まで反映させたプロジェクトとなります。
+のreact routerチュートリアルを最後まで反映させたプロジェクトとなります。
 
 ### 雛形（チュートリアルのはじめ）
 ```
@@ -30,5 +30,6 @@ http://localhost:5173/
 尚、DBは使わず擬似的なDBを作るため、落とし上げすれば自動で初期化される。  
 
 ### その他
-最低限Reactの知識（useState, useEffect）は必要
+・最低限Reactの知識（useState, useEffect）は必要  
+・
 
